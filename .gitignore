@@ -1,0 +1,17 @@
+.vs
+/*.sln
+/*.csproj
+/Library
+/Temp
+/UnityPackageManager
+/etc
+/obj
+/Packages
+/Log
+MSBuildForUnity.Common.props
+
+/Assets/MixedRealityToolkit.Providers/WindowsMixedReality/DotNetAdapter/Plugins
+/Assets/MixedRealityToolkit.Providers/WindowsMixedReality/DotNetAdapter/.obj
+
+MSBuildForUnity.Common.props
+.obj
